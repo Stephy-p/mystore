@@ -1,0 +1,38 @@
+[
+    {
+      "id": 101,
+      "productName": "Samsung Mobile",
+      "productPrice": 36985,
+      "productDiscount": 0.1,
+      "productRating": 2.5,
+      "productDate": "2021-03-30",
+      "productImage": "assets/product-img/p1.webp"
+    },
+    {
+      "id": 102,
+      "productName": "Realme Mobile",
+      "productPrice": 26985,
+      "productDiscount": 0.15,
+      "productRating": 1.5,
+      "productDate": "2021-09-30",
+      "productImage": "assets/product-img/p2.png"
+    },
+    {
+      "id": 103,
+      "productName": "Oneplus 5",
+      "productPrice": 16985,
+      "productDiscount": 0.05,
+      "productRating": 2.5,
+      "productDate": "2021-08-20",
+      "productImage": "assets/product-img/p3.jpg"
+    },
+    {
+      "id": 104,
+      "productName": "OPPO K3",
+      "productPrice": 9852,
+      "productDiscount": 0.02,
+      "productRating": 4.2,
+      "productDate": "2021-10-20",
+      "productImage": "assets/product-img/p4.jpg"
+    }
+  ]
